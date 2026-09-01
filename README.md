@@ -63,10 +63,10 @@ To explore or replicate this workflow:
 
 ## Usage
 ### What You Can Explore
-- Data Cleaning & Currency Standardization Logic
-- Customer Scoring & Tiering Criteria
-- Funding Research Approach for Outreach Timing
-- Pitch Deck & Email Structure
+- How Claude Cleaned and Standardized Multi Country Data in Minutes, Not Hours
+- How Customer Scoring and Tiering Was Automated Instead of Built Manually
+- How Funding Research Was Done Instantly Using Claude's Web Search
+- How a Branded Pitch Deck and Email Were Generated Without a Designer
 
 
 ----
