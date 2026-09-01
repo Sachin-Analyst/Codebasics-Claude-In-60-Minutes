@@ -83,6 +83,8 @@ To explore or replicate this workflow:
 LinkedIn Post - [Linkedin-Post-URL]()  
 Webinar Reference - [Codebasics-Webinar-Link](https://www.youtube.com/live/3rBxY1x9rjY?si=C3XDIsY-BP-SMIfx)
 
+![Report](Report/AtliQ-Isomorphic-Labs-email.png)
+
 
 ----
 
