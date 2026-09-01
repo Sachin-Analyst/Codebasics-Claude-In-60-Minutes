@@ -19,7 +19,7 @@ Welcome to my Codebasics Learners Week AI project. This repository documents a h
 
 
 *Project Title:* Codebasics Learners Week AI Sales Automation  
-*Created By:* [Your Name]()  
+*Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)  
 *Tools Used:* Claude, Excel, PowerPoint  
 *Focus Areas:* Data Cleaning & Standardization, Customer Tiering, Funding Research, Pitch Deck & Email Generation
 
