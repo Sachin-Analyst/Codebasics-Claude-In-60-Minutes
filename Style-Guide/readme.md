@@ -6,7 +6,7 @@ Welcome to the Style Guide for this project. This document lists the color palet
 
 ## Color Palette
 
-| Reference  | Hex |
+| Name  | Hex |
 |---|---|
 | Claude Main (Primary) | `#da7756` |
 | Claude Main (Secondary)  | `#eeece2` |
