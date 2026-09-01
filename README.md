@@ -80,7 +80,7 @@ To explore or replicate this workflow:
 
 
 ## Visual Insights
-LinkedIn Post - [Linkedin-Post-URL]()  
+LinkedIn Post - [Linkedin-Post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_claude-in-60-mins-webinar-learnings-ugcPost-7500525681173319680-0YLV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)  
 Webinar Reference - [Codebasics-Webinar-Link](https://www.youtube.com/live/3rBxY1x9rjY?si=C3XDIsY-BP-SMIfx)
 
 ![Report](Report/AtliQ-Isomorphic-Labs-email.png)
