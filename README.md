@@ -1,4 +1,4 @@
-# Codebasics-Learners-Week-AI-Sales-Automation
+# Codebasics-Learners-Week-AI-
 
 Welcome to my Codebasics Learners Week AI project. This repository documents a hands-on build completed during the "Claude in 60 Minutes" webinar, where a real business use case for AtliQ Tech, a cloud data and analytics company, was solved live inside Claude. The project covers cleaning and combining messy multi country sales data, scoring and tiering customers, researching recent funding activity, and generating a branded pitch deck and outreach email, all through prompting alone.
 
