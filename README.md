@@ -15,12 +15,17 @@ Welcome to my Codebasics Learners Week AI project. This repository documents a h
 
 ## Introduction
 
----
+----
+
+
 *Project Title:* Codebasics Learners Week AI Sales Automation  
 *Created By:* [Your Name]()  
 *Tools Used:* Claude, Excel, PowerPoint  
 *Focus Areas:* Data Cleaning & Standardization, Customer Tiering, Funding Research, Pitch Deck & Email Generation
----
+
+
+----
+
 
 ## Project Description
 This repository contains a sales workflow built entirely inside Claude, based on the AtliQ Tech use case from the Codebasics "Claude in 60 Minutes" webinar. Built across four prompting stages
