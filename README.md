@@ -86,7 +86,7 @@ The data used in this project is synthetic demo data provided during the Codebas
 
 ## Visual Insights
 LinkedIn Post - [Linkedin-Post-URL]()  
-Webinar Reference - [Codebasics]()
+Webinar Reference - [Codebasics-Webinar-Link](https://www.youtube.com/live/3rBxY1x9rjY?si=C3XDIsY-BP-SMIfx)
 
 
 ----
