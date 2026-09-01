@@ -32,6 +32,8 @@ This repository contains a sales workflow built entirely inside Claude, based on
 - Data Cleaning, Customer Tiering, Funding Research, and Outreach Generation
 - It combines four country level sales files into one clean master file, scores customers on deal value, tenure, and ease of business, tags them as Gold, Silver, or Bronze, researches recent funding for top tier accounts, and produces a branded pitch deck and cold email for a real lead.
 - Each stage was driven by a single, specific prompt rather than manual work, showing how Claude's Projects, Skills, and Research capabilities work together on a real workflow.
+
+
 ---
 
 ## Folder Structure
@@ -55,6 +57,8 @@ To explore or replicate this workflow:
    - Add the files from the Raw-Data folder into the project's Context
 3. *Run the Prompts*
    - Use the prompts from the Prompt folder in order to reproduce the cleaning, tiering, research, and generation steps
+
+   
 ----
 
 ## Usage
@@ -63,17 +67,28 @@ To explore or replicate this workflow:
 - Customer Scoring & Tiering Criteria
 - Funding Research Approach for Outreach Timing
 - Pitch Deck & Email Structure
+
+
 ----
+
+
 ### Explore the `Prompt`, `Report`, and `Style-Guide` folders for the full logic behind each stage.
+
+
 ----
 
 # Note !
 The data used in this project is synthetic demo data provided during the Codebasics webinar for AtliQ Tech, a fictional company, and is shared here purely for learning purposes.
+
+
 ----
+
 
 ## Visual Insights
 LinkedIn Post - [Linkedin-Post-URL]()  
 Webinar Reference - [Codebasics]()
+
+
 ----
 
 ## License
