@@ -75,11 +75,6 @@ To explore or replicate this workflow:
 ### Explore the `Prompt`, `Report`, and `Style-Guide` folders for the full logic behind each stage.
 
 
-----
-
-# Note !
-The data used in this project is synthetic demo data provided during the Codebasics webinar for AtliQ Tech, a fictional company, and is shared here purely for learning purposes.
-
 
 ----
 
