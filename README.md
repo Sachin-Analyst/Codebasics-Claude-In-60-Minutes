@@ -40,7 +40,7 @@ This repository contains a sales workflow built entirely inside Claude, based on
 - *Prompt* - Every prompt used across the four stages, documented in order (cleaning, tiering, funding research, deck and email)
 - *Report* - The finished outputs: the master customer file, the pitch deck, and the outreach email
 - *Raw-Data* - The original messy sales files from each country team, before cleaning
-- *Style-Guide* - The AtliQ Tech brand reference (colors, tone, logo) used to style the deck and email
+- *Style-Guide* - The Colors i have used to build the report
 
 ## Key features
 - *Multi Country Data Cleaning & Currency Standardization*
